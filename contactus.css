@@ -10,7 +10,7 @@ body {
 }
 
 
-/* Navigation */
+
 nav {
     height: 130px;
     display: flex;
@@ -46,7 +46,7 @@ nav {
 }
 
 
-/* Contact information */
+
 .contact-info {
     height: 265px;
     display: flex;
@@ -74,7 +74,7 @@ nav {
 }
 
 
-/* Form */
+
 .form-box {
     background: #eee0fa;
     margin: 0 5px;
@@ -122,7 +122,7 @@ textarea {
 }
 
 
-/* Footer */
+
 footer {
     padding: 100px 12px 25px;
 }
@@ -190,7 +190,7 @@ hr {
 }
 
 
-/* For small screens */
+
 @media (max-width: 700px) {
 
     nav {
