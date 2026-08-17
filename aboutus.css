@@ -50,7 +50,7 @@ button {
 }
 
 
-/* HERO */
+
 
 .hero {
     width: 88%;
@@ -82,7 +82,7 @@ button {
 }
 
 
-/* WHY */
+
 
 .why {
     width: 90%;
@@ -124,7 +124,6 @@ h2 {
 }
 
 
-/* TEAM */
 
 .team {
     width: 97%;
@@ -164,7 +163,7 @@ h2 {
 }
 
 
-/* TESTIMONIALS */
+
 
 .testimonials {
     width: 97%;
@@ -215,7 +214,7 @@ h2 {
 }
 
 
-/* FOOTER */
+
 
 footer {
     width: 95%;
@@ -275,7 +274,6 @@ footer {
 }
 
 
-/* BOTTOM */
 
 .bottom {
     width: 95%;
@@ -286,7 +284,7 @@ footer {
 }
 
 
-/* MOBILE */
+
 
 @media (max-width: 700px) {
 
